@@ -1,4 +1,4 @@
-package com.recipebook.entity;
+package com.recipebook.app.entity;
 
 public class Recipe {
 	private String name;
